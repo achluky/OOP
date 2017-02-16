@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kalkulator.KalkulatorController.MainController">
+   <children>
+      <MenuBar layoutY="2.0" prefHeight="25.0" prefWidth="400.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+                  <MenuItem fx:id="buttonReset" mnemonicParsing="false" onAction="#buttonReset" text="Reset" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+              <MenuItem fx:id="buttonClose" mnemonicParsing="false" onAction="#buttonClose" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="View">
+            <items>
+                  <MenuItem fx:id="buttonProgramer" mnemonicParsing="false" onAction="#buttonProgramer" text="Programer" />
+              <MenuItem fx:id="buttonStandard" mnemonicParsing="false" onAction="#buttonStandard" text="Standard" />
+                  <MenuItem fx:id="buttonScientific" mnemonicParsing="false" onAction="#buttonScientific" text="Scientific" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem fx:id="buttonHelp" mnemonicParsing="false" onAction="#buttonHelp" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <TextField fx:id="resultText" layoutX="14.0" layoutY="40.0" prefHeight="89.0" prefWidth="370.0" />
+      <Button fx:id="buttonClear" layoutX="223.0" layoutY="144.0" mnemonicParsing="false" onAction="#buttonClear" prefHeight="45.0" prefWidth="158.0" text="C" />
+      <Button fx:id="buttonBackSpace" layoutX="14.0" layoutY="144.0" mnemonicParsing="false" onAction="#buttonBackSpace" prefHeight="45.0" prefWidth="195.0" text="BackSpace" />
+      <Button fx:id="buttonOne" layoutX="14.0" layoutY="200.0" mnemonicParsing="false" onAction="#buttonOne" prefHeight="45.0" prefWidth="45.0" text="1" />
+      <Button fx:id="buttonTwo" layoutX="59.0" layoutY="200.0" mnemonicParsing="false" onAction="#buttonTwo" prefHeight="45.0" prefWidth="45.0" text="2" />
+      <Button fx:id="buttonSeven" layoutX="14.0" layoutY="288.0" mnemonicParsing="false" onAction="#buttonSeven" prefHeight="45.0" prefWidth="45.0" text="7" />
+      <Button fx:id="buttonFour" layoutX="14.0" layoutY="243.0" mnemonicParsing="false" onAction="#buttonFour" prefHeight="45.0" prefWidth="45.0" text="4" />
+      <Button fx:id="buttonFive" layoutX="59.0" layoutY="243.0" mnemonicParsing="false" onAction="#buttonFive" prefHeight="45.0" prefWidth="45.0" text="5" />
+      <Button fx:id="buttonSix" layoutX="104.0" layoutY="243.0" mnemonicParsing="false" onAction="#buttonSix" prefHeight="45.0" prefWidth="45.0" text="6" />
+      <Button fx:id="buttonThree" layoutX="104.0" layoutY="200.0" mnemonicParsing="false" onAction="#buttonThree" prefHeight="45.0" prefWidth="45.0" text="3" />
+      <Button fx:id="buttonNine" layoutX="104.0" layoutY="288.0" mnemonicParsing="false" onAction="#buttonNine" prefHeight="45.0" prefWidth="45.0" text="9" />
+      <Button fx:id="buttonZero" layoutX="59.0" layoutY="333.0" mnemonicParsing="false" onAction="#buttonZero" prefHeight="45.0" prefWidth="45.0" text="0" />
+      <Button fx:id="buttonDiv" layoutX="237.0" layoutY="207.0" mnemonicParsing="false" onAction="#buttonDiv" prefHeight="31.0" prefWidth="65.0" text="/" />
+      <Button fx:id="buttonSqrt" layoutX="302.0" layoutY="207.0" mnemonicParsing="false" onAction="#buttonSqrt" prefHeight="31.0" prefWidth="65.0" text="sqrt" />
+      <Button fx:id="buttonMultiply" layoutX="237.0" layoutY="238.0" mnemonicParsing="false" onAction="#buttonMultiply" prefHeight="31.0" prefWidth="65.0" text="X" />
+      <Button fx:id="buttonMod" layoutX="302.0" layoutY="238.0" mnemonicParsing="false" onAction="#buttonMod" prefHeight="31.0" prefWidth="65.0" text="\%" />
+      <Button fx:id="buttonSubstract" layoutX="237.0" layoutY="266.0" mnemonicParsing="false" onAction="#buttonSubstract" prefHeight="31.0" prefWidth="65.0" text="-" />
+      <Button fx:id="buttonOneDiv" layoutX="302.0" layoutY="266.0" mnemonicParsing="false" onAction="#buttonOneDiv" prefHeight="31.0" prefWidth="65.0" text="1/x" />
+      <Button fx:id="buttonAdder" layoutX="237.0" layoutY="295.0" mnemonicParsing="false" onAction="#buttonAdder" prefHeight="31.0" prefWidth="65.0" text="+" />
+      <Button fx:id="buttonResult" layoutX="302.0" layoutY="295.0" mnemonicParsing="false" onAction="#buttonResult" prefHeight="31.0" prefWidth="65.0" text="=" />
+      <Button fx:id="buttonEight" layoutX="59.0" layoutY="288.0" mnemonicParsing="false" onAction="#buttonEight" prefHeight="45.0" prefWidth="45.0" text="8" />
+   </children>
+</AnchorPane>

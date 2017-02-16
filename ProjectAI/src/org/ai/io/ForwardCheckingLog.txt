@@ -1,0 +1,21 @@
+Solusi dengan Representasi Board    :
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+Solusi selanjutnya
+Solusi dengan Representasi Board    :
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+Solusi selanjutnya
+Total solutions: 2
+Solusi dengan Representasi String   :
+2 4 1 3 
+3 1 4 2 
+
+Simpul Hidup sebanyak :0
+Simpul Mati sebanyak :0
+Jumlah Iterasi Board :0
+Dengan Total Semua Iterasi :224

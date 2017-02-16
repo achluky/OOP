@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lkmproject.controller.RegistrasiController">
+   <children>
+      <Label fx:id="lkmLbl" layoutX="173.0" layoutY="57.0" text="Lembaga Kesehatan Masyarakat">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Label fx:id="idLbl" layoutX="103.0" layoutY="159.0" text="ID">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="alamatLbl" layoutX="106.0" layoutY="315.0" text="Alamat">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="TTLLbl" layoutX="106.0" layoutY="404.0" text="Tanggal Lahir">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="jkLbl" layoutX="105.0" layoutY="362.0" text="Jenis Kelamin">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="106.0" layoutY="281.0" />
+      <Label fx:id="namaLbl" layoutX="104.0" layoutY="268.0" text="Nama">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="riwayatPenyakitLbl" layoutX="106.0" layoutY="441.0" text="Riwayat Penyakit">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="idTF" layoutX="313.0" layoutY="164.0" prefHeight="25.0" prefWidth="312.0" promptText="ID" />
+      <TextField fx:id="namaTF" layoutX="313.0" layoutY="269.0" prefHeight="25.0" prefWidth="312.0" promptText="Nama" />
+      <TextField fx:id="alamatTF" layoutX="313.0" layoutY="316.0" prefHeight="25.0" prefWidth="312.0" promptText="Alamat" />
+      <Button layoutX="664.0" layoutY="554.0" mnemonicParsing="false" onAction="#RegistrasiBtn" prefHeight="34.0" prefWidth="122.0" text="Registrasi" />
+      <Label fx:id="passwordLbl" layoutX="104.0" layoutY="201.0" text="Password">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <PasswordField fx:id="passwordTf" layoutX="313.0" layoutY="206.0" prefHeight="25.0" prefWidth="312.0" promptText="Password" />
+      <PasswordField fx:id="ulangPasswordTF" layoutX="313.0" layoutY="239.0" prefHeight="25.0" prefWidth="312.0" promptText="Ulangi Password" />
+      <ImageView fx:id="logoImage" fitHeight="150.0" fitWidth="200.0" layoutX="2.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../LogoLKM.png" />
+         </image>
+      </ImageView>
+      <DatePicker fx:id="tanggalLahirDate" layoutX="313.0" layoutY="405.0" prefHeight="25.0" prefWidth="312.0" promptText="Tanggal Lahir" />
+      <TextArea fx:id="RiwayatTA" layoutX="313.0" layoutY="441.0" prefHeight="103.0" prefWidth="474.0" />
+      <RadioButton fx:id="lakiLakiRegistrasiRB" layoutX="313.0" layoutY="367.0" mnemonicParsing="false" text="Laki -  laki" />
+      <RadioButton fx:id="perempuanRegistrasiRB" layoutX="416.0" layoutY="367.0" mnemonicParsing="false" text="Perempuan" />
+      <Label fx:id="MessageLabel" layoutX="313.0" layoutY="130.0" prefHeight="17.0" prefWidth="312.0" />
+      <Button layoutX="705.0" layoutY="14.0" mnemonicParsing="false" onAction="#gotoLoginWindow" text="Go To Login" />
+   </children>
+</AnchorPane>

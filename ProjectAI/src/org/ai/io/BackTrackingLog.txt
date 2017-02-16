@@ -1,0 +1,1198 @@
+Solusi dengan Representasi String   :
+ 0 4 7 5 2 6 1 3
+Solusi dengan Representasi Board    :
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :113
+Simpul Mati sebanyak :223
+Solusi dengan Representasi String   :
+ 0 5 7 2 6 3 1 4
+Solusi dengan Representasi Board    :
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :34
+Simpul Mati sebanyak :61
+Solusi dengan Representasi String   :
+ 0 6 3 5 7 1 4 2
+Solusi dengan Representasi Board    :
+Q . . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :26
+Simpul Mati sebanyak :51
+Solusi dengan Representasi String   :
+ 0 6 4 7 1 3 5 2
+Solusi dengan Representasi Board    :
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :18
+Simpul Mati sebanyak :32
+Solusi dengan Representasi String   :
+ 1 3 5 7 2 0 6 4
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+Q . . . . . . . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . Q . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :64
+Simpul Mati sebanyak :136
+Solusi dengan Representasi String   :
+ 1 4 6 0 2 7 5 3
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :51
+Simpul Mati sebanyak :99
+Solusi dengan Representasi String   :
+ 1 4 6 3 0 7 5 2
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :10
+Simpul Mati sebanyak :12
+Solusi dengan Representasi String   :
+ 1 5 0 6 3 7 2 4
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :36
+Simpul Mati sebanyak :57
+Solusi dengan Representasi String   :
+ 1 5 7 2 0 3 6 4
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :31
+Simpul Mati sebanyak :49
+Solusi dengan Representasi String   :
+ 1 6 2 5 7 4 0 3
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :34
+Simpul Mati sebanyak :60
+Solusi dengan Representasi String   :
+ 1 6 4 7 0 3 5 2
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :21
+Simpul Mati sebanyak :30
+Solusi dengan Representasi String   :
+ 1 7 5 0 2 4 6 3
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :43
+Simpul Mati sebanyak :79
+Solusi dengan Representasi String   :
+ 2 0 6 4 7 1 3 5
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . . Q . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. . . . . . . Q 
+. . Q . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :60
+Simpul Mati sebanyak :109
+Solusi dengan Representasi String   :
+ 2 4 1 7 0 6 3 5
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :28
+Simpul Mati sebanyak :48
+Solusi dengan Representasi String   :
+ 2 4 1 7 5 3 6 0
+Solusi dengan Representasi Board    :
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 2 4 6 0 3 1 7 5
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . Q . . 
+Q . . . . . . . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . Q . . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :6
+Solusi dengan Representasi String   :
+ 2 4 7 3 0 6 1 5
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :31
+Simpul Mati sebanyak :46
+Solusi dengan Representasi String   :
+ 2 5 1 4 7 0 6 3
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :11
+Simpul Mati sebanyak :16
+Solusi dengan Representasi String   :
+ 2 5 1 6 0 3 7 4
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :7
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 2 5 1 6 4 0 7 3
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 2 5 3 0 7 4 6 1
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :8
+Simpul Mati sebanyak :11
+Solusi dengan Representasi String   :
+ 2 5 3 1 7 4 6 0
+Solusi dengan Representasi Board    :
+. . . . . . . Q 
+. . . Q . . . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :8
+Solusi dengan Representasi String   :
+ 2 5 7 0 3 6 4 1
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :17
+Solusi dengan Representasi String   :
+ 2 5 7 0 4 6 1 3
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :2
+Solusi dengan Representasi String   :
+ 2 5 7 1 3 0 6 4
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 2 6 1 7 4 0 3 5
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :28
+Simpul Mati sebanyak :42
+Solusi dengan Representasi String   :
+ 2 6 1 7 5 3 0 4
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :5
+Solusi dengan Representasi String   :
+ 2 7 3 6 0 5 1 4
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :47
+Simpul Mati sebanyak :78
+Solusi dengan Representasi String   :
+ 3 0 4 7 1 6 2 5
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :39
+Simpul Mati sebanyak :70
+Solusi dengan Representasi String   :
+ 3 0 4 7 5 2 6 1
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 3 1 4 7 5 0 2 6
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Simpul Hidup sebanyak :49
+Simpul Mati sebanyak :82
+Solusi dengan Representasi String   :
+ 3 1 6 2 5 7 0 4
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :10
+Simpul Mati sebanyak :14
+Solusi dengan Representasi String   :
+ 3 1 6 2 5 7 4 0
+Solusi dengan Representasi Board    :
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :2
+Simpul Mati sebanyak :0
+Solusi dengan Representasi String   :
+ 3 1 6 4 0 7 5 2
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 3 1 7 4 6 0 2 5
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :20
+Simpul Mati sebanyak :27
+Solusi dengan Representasi String   :
+ 3 1 7 5 0 2 4 6
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . Q . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :3
+Solusi dengan Representasi String   :
+ 3 5 0 4 1 7 2 6
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Simpul Hidup sebanyak :19
+Simpul Mati sebanyak :27
+Solusi dengan Representasi String   :
+ 3 5 7 1 6 0 2 4
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :17
+Simpul Mati sebanyak :34
+Solusi dengan Representasi String   :
+ 3 5 7 2 0 6 4 1
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :7
+Simpul Mati sebanyak :7
+Solusi dengan Representasi String   :
+ 3 6 0 7 4 1 5 2
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :32
+Simpul Mati sebanyak :47
+Solusi dengan Representasi String   :
+ 3 6 2 7 1 4 0 5
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :13
+Simpul Mati sebanyak :19
+Solusi dengan Representasi String   :
+ 3 6 4 1 5 0 2 7
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :11
+Solusi dengan Representasi String   :
+ 3 6 4 2 0 5 7 1
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :6
+Solusi dengan Representasi String   :
+ 3 7 0 2 5 1 6 4
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :14
+Simpul Mati sebanyak :24
+Solusi dengan Representasi String   :
+ 3 7 0 4 6 1 5 2
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :13
+Solusi dengan Representasi String   :
+ 3 7 4 2 0 6 1 5
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :22
+Simpul Mati sebanyak :31
+Solusi dengan Representasi String   :
+ 4 0 3 5 7 1 6 2
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :10
+Simpul Mati sebanyak :20
+Solusi dengan Representasi String   :
+ 4 0 7 3 1 6 2 5
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :22
+Simpul Mati sebanyak :31
+Solusi dengan Representasi String   :
+ 4 0 7 5 2 6 1 3
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :13
+Solusi dengan Representasi String   :
+ 4 1 3 5 7 2 0 6
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Simpul Hidup sebanyak :14
+Simpul Mati sebanyak :24
+Solusi dengan Representasi String   :
+ 4 1 3 6 2 7 5 0
+Solusi dengan Representasi Board    :
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :6
+Solusi dengan Representasi String   :
+ 4 1 5 0 6 3 7 2
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :11
+Solusi dengan Representasi String   :
+ 4 1 7 0 3 6 2 5
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :13
+Simpul Mati sebanyak :19
+Solusi dengan Representasi String   :
+ 4 2 0 5 7 1 3 6
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Simpul Hidup sebanyak :32
+Simpul Mati sebanyak :47
+Solusi dengan Representasi String   :
+ 4 2 0 6 1 7 5 3
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :7
+Simpul Mati sebanyak :7
+Solusi dengan Representasi String   :
+ 4 2 7 3 6 0 5 1
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :17
+Simpul Mati sebanyak :34
+Solusi dengan Representasi String   :
+ 4 6 0 2 7 5 3 1
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :19
+Simpul Mati sebanyak :27
+Solusi dengan Representasi String   :
+ 4 6 0 3 1 7 5 2
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :3
+Solusi dengan Representasi String   :
+ 4 6 1 3 7 0 2 5
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :20
+Simpul Mati sebanyak :27
+Solusi dengan Representasi String   :
+ 4 6 1 5 2 0 3 7
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 4 6 1 5 2 0 7 3
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :2
+Simpul Mati sebanyak :0
+Solusi dengan Representasi String   :
+ 4 6 3 0 2 7 5 1
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :10
+Simpul Mati sebanyak :14
+Solusi dengan Representasi String   :
+ 4 7 3 0 2 5 1 6
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+Simpul Hidup sebanyak :49
+Simpul Mati sebanyak :82
+Solusi dengan Representasi String   :
+ 4 7 3 0 6 1 5 2
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 5 0 4 1 7 2 6 3
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :39
+Simpul Mati sebanyak :70
+Solusi dengan Representasi String   :
+ 5 1 6 0 2 4 7 3
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :47
+Simpul Mati sebanyak :78
+Solusi dengan Representasi String   :
+ 5 1 6 0 3 7 4 2
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :5
+Solusi dengan Representasi String   :
+ 5 2 0 6 4 7 1 3
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :28
+Simpul Mati sebanyak :42
+Solusi dengan Representasi String   :
+ 5 2 0 7 3 1 6 4
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 5 2 0 7 4 1 3 6
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :2
+Solusi dengan Representasi String   :
+ 5 2 4 6 0 3 1 7
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+Simpul Hidup sebanyak :9
+Simpul Mati sebanyak :17
+Solusi dengan Representasi String   :
+ 5 2 4 7 0 3 1 6
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . Q . . 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :8
+Solusi dengan Representasi String   :
+ 5 2 6 1 3 7 0 4
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . Q . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :8
+Simpul Mati sebanyak :11
+Solusi dengan Representasi String   :
+ 5 2 6 1 7 4 0 3
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :4
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 5 2 6 3 0 7 1 4
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :7
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 5 3 0 4 7 1 6 2
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :11
+Simpul Mati sebanyak :16
+Solusi dengan Representasi String   :
+ 5 3 1 7 4 6 0 2
+Solusi dengan Representasi Board    :
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :31
+Simpul Mati sebanyak :46
+Solusi dengan Representasi String   :
+ 5 3 6 0 2 4 1 7
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . Q . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . Q . . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+Simpul Hidup sebanyak :6
+Simpul Mati sebanyak :6
+Solusi dengan Representasi String   :
+ 5 3 6 0 7 1 4 2
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :5
+Simpul Mati sebanyak :4
+Solusi dengan Representasi String   :
+ 5 7 1 3 0 6 4 2
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . . . . Q . . 
+. Q . . . . . . 
+Simpul Hidup sebanyak :28
+Simpul Mati sebanyak :48
+Solusi dengan Representasi String   :
+ 6 0 2 7 5 3 1 4
+Solusi dengan Representasi Board    :
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :60
+Simpul Mati sebanyak :109
+Solusi dengan Representasi String   :
+ 6 1 3 0 7 4 2 5
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :43
+Simpul Mati sebanyak :79
+Solusi dengan Representasi String   :
+ 6 1 5 2 0 3 7 4
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . Q . . . . . 
+Q . . . . . . . 
+. . . . . . Q . 
+Simpul Hidup sebanyak :21
+Simpul Mati sebanyak :30
+Solusi dengan Representasi String   :
+ 6 2 0 5 7 4 1 3
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+Q . . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :34
+Simpul Mati sebanyak :60
+Solusi dengan Representasi String   :
+ 6 2 7 1 4 0 5 3
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+. . Q . . . . . 
+Simpul Hidup sebanyak :31
+Simpul Mati sebanyak :49
+Solusi dengan Representasi String   :
+ 6 3 1 4 7 0 2 5
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . . . Q 
+Q . . . . . . . 
+. . . . Q . . . 
+Simpul Hidup sebanyak :36
+Simpul Mati sebanyak :57
+Solusi dengan Representasi String   :
+ 6 3 1 7 5 0 2 4
+Solusi dengan Representasi Board    :
+. . . . . Q . . 
+. . Q . . . . . 
+. . . . . . Q . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . Q . . . . 
+Simpul Hidup sebanyak :10
+Simpul Mati sebanyak :12
+Solusi dengan Representasi String   :
+ 6 4 2 0 5 7 1 3
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . . . Q 
+. Q . . . . . . 
+. . . . Q . . . 
+Q . . . . . . . 
+. . . . . Q . . 
+Simpul Hidup sebanyak :51
+Simpul Mati sebanyak :99
+Solusi dengan Representasi String   :
+ 7 1 3 0 6 4 2 5
+Solusi dengan Representasi Board    :
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . Q . . 
+. . . . . . . Q 
+. . . . Q . . . 
+Q . . . . . . . 
+Simpul Hidup sebanyak :64
+Simpul Mati sebanyak :136
+Solusi dengan Representasi String   :
+ 7 1 4 2 0 6 3 5
+Solusi dengan Representasi Board    :
+. . . . Q . . . 
+. Q . . . . . . 
+. . . Q . . . . 
+. . . . . . Q . 
+. . Q . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+Q . . . . . . . 
+Simpul Hidup sebanyak :18
+Simpul Mati sebanyak :32
+Solusi dengan Representasi String   :
+ 7 2 0 5 1 4 6 3
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . Q . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . . Q . . 
+. . . Q . . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+Simpul Hidup sebanyak :26
+Simpul Mati sebanyak :51
+Solusi dengan Representasi String   :
+ 7 3 0 2 5 1 6 4
+Solusi dengan Representasi Board    :
+. . Q . . . . . 
+. . . . . Q . . 
+. . . Q . . . . 
+. Q . . . . . . 
+. . . . . . . Q 
+. . . . Q . . . 
+. . . . . . Q . 
+Q . . . . . . . 
+Simpul Hidup sebanyak :34
+Simpul Mati sebanyak :61
+Terdapat  92 solusi yang berbeda.
+Jumlah Iterasi Board :19368Dengan Total Semua Iterasi :42456

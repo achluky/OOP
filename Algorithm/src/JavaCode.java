@@ -1,0 +1,3 @@
+public class JavaCode {      public static void all_sub_string(int[] a, int n)      {         if (n == a.length)         {            for (int i = 0; i < a.length; i++)               System.out.print( a[i] + " ");            System.out.println();            return;         } 
+        a[n] = 0;         all_sub_string(a, n+1);         a[n] = 1;         all_sub_string(a, n+1);      } 
+    public static void main(String[] s)     {         int[] a = new int[3];         all_sub_string(a, 0);     } } 

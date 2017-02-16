@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="720.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lkmproject.controller.DokterController">
+   <children>
+      <TableView fx:id="pasienOnlineTV" layoutX="11.0" layoutY="30.0" prefHeight="174.0" prefWidth="1339.0">
+        <columns>
+          <TableColumn fx:id="idPasienTC" prefWidth="146.00003051757812" text="ID Pasien" />
+          <TableColumn fx:id="namaPasienTC" prefWidth="226.0" text="Nama" />
+            <TableColumn fx:id="keluhanPasien" prefWidth="542.0" text="Keluhan" />
+            <TableColumn fx:id="riwayatPenyakit" prefWidth="507.0" text="RiwayatPenyakit" />
+        </columns>
+      </TableView>
+      <Button layoutX="1291.0" layoutY="210.0" mnemonicParsing="false" onAction="#tanganiBtn" text="Tangani" />
+      <MenuBar fx:id="menuBar" layoutX="2.0" prefHeight="25.0" prefWidth="1366.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#gotoLoginPage" text="Login Page" />
+                  <MenuItem mnemonicParsing="false" onAction="#gotoRegistrationPage" text="Registrastion Page" />
+              <MenuItem mnemonicParsing="false" onAction="#closeApp" text="Logout &amp; Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#resetApp" text="Reset" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <TextField fx:id="PenyakitTF" layoutX="619.0" layoutY="256.0" prefHeight="25.0" prefWidth="253.0" />
+      <Separator fx:id="separator1" layoutX="2.0" layoutY="235.0" prefHeight="25.0" prefWidth="1366.0" />
+      <Label fx:id="idLbl" layoutX="16.0" layoutY="260.0" text="ID" />
+      <Label fx:id="namaLbl" layoutX="240.0" layoutY="260.0" text="Nama" />
+      <Label fx:id="penyakitLbl" layoutX="548.0" layoutY="260.0" text="Penyakit" />
+      <TableView fx:id="rekomendasiObatTV" layoutX="10.0" layoutY="410.0" prefHeight="253.0" prefWidth="455.0">
+        <columns>
+          <TableColumn fx:id="namaRekObatTC" prefWidth="151.0" text="Nama" />
+            <TableColumn fx:id="komposisiRekTC" prefWidth="209.0" text="Komposisi" />
+          <TableColumn fx:id="jenisObatRekTC" prefWidth="93.0" text="JenisObat" />
+        </columns>
+      </TableView>
+      <Button layoutX="352.0" layoutY="675.0" mnemonicParsing="false" onAction="#tambahkanBtn" prefHeight="25.0" prefWidth="113.0" text="Tambahkan" />
+      <Label fx:id="rekomendasiLbl" layoutX="11.0" layoutY="385.0" text="Rekomendasi Obat" />
+      <Separator fx:id="separator2" layoutX="1.0" layoutY="289.0" prefHeight="25.0" prefWidth="1366.0" />
+      <TableView fx:id="obatTerpilihTV" layoutX="490.0" layoutY="336.0" prefHeight="269.0" prefWidth="485.0">
+         <columns>
+            <TableColumn fx:id="namaObatTerpilihTC" prefWidth="116.0" text="Nama" />
+            <TableColumn fx:id="komposisiObatTerpilihTC" prefWidth="148.0" text="Komposisi" />
+            <TableColumn fx:id="jenisObatTerpilihTC" prefWidth="125.0" text="JenisObat" />
+            <TableColumn fx:id="TakaranObatTerpilihTC" prefWidth="120.0" text="Takaran" />
+         </columns>
+      </TableView>
+      <Label fx:id="obatLbl" layoutX="499.0" layoutY="306.0" text="Obat" />
+      <Separator fx:id="separator3" layoutX="467.0" layoutY="300.0" orientation="VERTICAL" prefHeight="419.0" prefWidth="27.0" />
+      <TextField fx:id="NamaObatTF" layoutX="10.0" layoutY="342.0" prefHeight="25.0" prefWidth="455.0" />
+      <Button layoutX="305.0" layoutY="373.0" mnemonicParsing="false" onAction="#cariTambahObatBtn" prefHeight="25.0" prefWidth="160.0" text="Cari dan Tambahkan" />
+      <Separator fx:id="separator4" layoutX="975.0" layoutY="302.0" orientation="VERTICAL" prefHeight="419.0" prefWidth="20.0" />
+      <Label fx:id="idPasienterpilihLbl" layoutX="33.0" layoutY="260.0" prefHeight="17.0" prefWidth="160.0" />
+      <Label fx:id="namaPasienterpilihLbl" layoutX="284.0" layoutY="260.0" prefHeight="17.0" prefWidth="217.0" />
+      <Label fx:id="cariObatLbl" layoutX="14.0" layoutY="314.0" text="Cari Obat" />
+      <RadioButton fx:id="sekaliRadioBtn" layoutX="493.0" layoutY="655.0" mnemonicParsing="false" text="1 kali sehari" />
+      <RadioButton fx:id="seduaRadioBtn" layoutX="583.0" layoutY="655.0" mnemonicParsing="false" text="2 kali Sehari" />
+      <RadioButton fx:id="seTigaRadioBtn" layoutX="677.0" layoutY="655.0" mnemonicParsing="false" text="3 kali Sehari" />
+      <Label fx:id="catatanLbl" layoutX="995.0" layoutY="315.0" prefHeight="17.0" prefWidth="95.0" text="Catatan" />
+      <TextArea fx:id="catatanTA" layoutX="995.0" layoutY="338.0" prefHeight="326.0" prefWidth="356.0" />
+      <Label layoutX="490.0" layoutY="623.0" prefHeight="17.0" prefWidth="186.0" text="Jadwal Pemakaian" />
+      <Button layoutX="1178.0" layoutY="675.0" mnemonicParsing="false" onAction="#kirimdataBtn" text="Kirim Semua Data Ke Petugas" />
+      <Button layoutX="836.0" layoutY="610.0" mnemonicParsing="false" onAction="#HapusObatBtn" text="Hapus dari Daftar Obat" />
+      <Button layoutX="1241.0" layoutY="256.0" mnemonicParsing="false" onAction="#tambahPenyakitBtn" text="Tambah Penyakit" />
+      <RadioButton fx:id="seLainRadioBtn" layoutX="775.0" layoutY="655.0" mnemonicParsing="false" text="Lain" />
+      <Button layoutX="487.0" layoutY="688.0" mnemonicParsing="false" onAction="#SesuaikanBtn" text="Sesuaikan" />
+   </children>
+</AnchorPane>

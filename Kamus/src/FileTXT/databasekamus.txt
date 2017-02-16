@@ -1,0 +1,8 @@
+one#satu
+two#dua
+three#tiga
+four#empat
+ajay#jaya
+one#one
+stupid#bodoh
+paul#paulina
