@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.tiketbus.controller.MainController">
+   <children>
+      <BarChart fx:id="bar" animated="false" layoutX="165.0" layoutY="346.0" prefHeight="222.0" prefWidth="598.0" title="Chart">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </BarChart>
+      <TableView fx:id="penumpangPemesananTB" layoutX="14.0" layoutY="14.0" prefHeight="200.0" prefWidth="459.0">
+        <columns>
+          <TableColumn fx:id="columnIdPemesanan" prefWidth="40.0" text="Id" />
+          <TableColumn fx:id="columnNamaPemesanan" prefWidth="110.0" text="Nama" />
+            <TableColumn fx:id="columnTujuanPemesanan" prefWidth="102.0" text="Tujuan" />
+            <TableColumn fx:id="columnJumlahPemesanan" prefWidth="48.0" text="Jumlah" />
+            <TableColumn fx:id="columnTotalPembayaranPemesanan" prefWidth="158.0" text="Total Pembayaran" />
+        </columns>
+      </TableView>
+      <TableView fx:id="penumpangPembayaranTB" layoutX="478.0" layoutY="14.0" prefHeight="200.0" prefWidth="308.0">
+        <columns>
+          <TableColumn fx:id="columnIdPembayaran" prefWidth="29.0" text="Id" />
+          <TableColumn fx:id="columnTotalPembayaran" prefWidth="159.0" text="Total Pembayaran" />
+            <TableColumn fx:id="columnTujuanPembayaran" prefWidth="118.0" text="Tujuan" />
+        </columns>
+      </TableView>
+      <TextField fx:id="textNamaPemesanan" layoutX="136.0" layoutY="223.0" />
+      <TextField fx:id="textJumlahPenumpangPemesanan" layoutX="135.0" layoutY="288.0" />
+      <ComboBox fx:id="comboTujuanPemesanan" layoutX="135.0" layoutY="254.0" prefWidth="150.0">
+         
+      </ComboBox>
+      <Text layoutX="21.0" layoutY="240.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nama" />
+      <Text fx:id="comboPemesanan" layoutX="21.0" layoutY="271.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tujuan" />
+      <Text layoutX="21.0" layoutY="305.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jumlah Penumpang" />
+      <TextField fx:id="textIdPembayaran" layoutX="632.0" layoutY="223.0" />
+      <TextField fx:id="textPembayaran" layoutX="632.0" layoutY="254.0" />
+      <Text layoutX="535.0" layoutY="240.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Id" />
+      <Text layoutX="534.0" layoutY="271.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pembayaran" />
+      <Button layoutX="21.0" layoutY="321.0" mnemonicParsing="false" onAction="#buttonPesanBtn" text="Pesan" />
+      <Button layoutX="707.0" layoutY="296.0" mnemonicParsing="false" onAction="#buttonKonfirmasiBtn" text="konfirmasi" />
+   </children>
+</AnchorPane>
